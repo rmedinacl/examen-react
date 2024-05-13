@@ -17,9 +17,7 @@ function NavbarHero() {
             Las mejores cervecerías de USA
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="navbar-nav" />
-          <Navbar.Collapse id="navbar-nav">
-            {/* Add your navigation links here */}
-          </Navbar.Collapse>
+          <Navbar.Collapse id="navbar-nav"></Navbar.Collapse>
         </Container>
       </Navbar>
     </>

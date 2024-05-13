@@ -30,7 +30,8 @@ export default function Hero() {
                 Cervezas de USA
               </h1>
               <p style={{ color: "white", fontSize: "24px" }}>
-                Lista de las mejores cervecerías de USA
+                Lista de las mejores cervecerías de USA 🍺 <br /> Directas desde
+                la mejor API
               </p>
               <Button variant="success" size="md" onClick={handleClick}>
                 Busca Ahora!
